@@ -1,0 +1,5 @@
+{
+  "name": "DuDu Pizza Shaqlawa",
+  "description": "Professional wood-fired pizza ordering website for DuDu Pizza in Shaqlawa, Kurdistan.",
+  "requestFramePermissions": ["geolocation"]
+}
