@@ -91,7 +91,7 @@ export const MENU_ITEMS: MenuItem[] = [
   }
 ];
 
-export const WHATSAPP_NUMBER = '+9647500000000'; // Placeholder as requested +964750XXXXXXX
+export const WHATSAPP_NUMBER = '+9647826052788'; // Placeholder as requested +964750XXXXXXX
 
 export const PIZZA_PRICE_INCREMENTS = {
   MEDIUM: 3000,
